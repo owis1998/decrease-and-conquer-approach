@@ -6,4 +6,4 @@ n * m = (n / 2) * 2m
 for odd values of n:
 n * m = ((n - 1) / 2) * (2m + m) 
 
-the time comlexity of this algorithm is **Θ(log n)**
+the time comlexity of this algorithm is **Θ(log n)**  [facebook](https://www.facebook.com)
